@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/rahulraj1406/rahulraj1406/blob/output/github-snake-dark.svg)
+
 <!--
 **rahulraj1406/rahulraj1406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
